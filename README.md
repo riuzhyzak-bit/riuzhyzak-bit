@@ -13,7 +13,6 @@
 <a href="https://github.com/riuzhyzak-bit">
 <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=riuzhyzak-bit&color=6D28D9&style=for-the-badge&label=VISITAS"/>
 
 </div>
 
