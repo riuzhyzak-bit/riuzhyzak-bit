@@ -92,8 +92,6 @@ Busco criar projetos que unam boa experiência de usuário, desempenho e qualida
 
 </div>
 
-> A cobrinha come os quadrados do seu contribution graph todo dia, nas cores roxo/pantera. Precisa da GitHub Action `snake.yml` rodando (instruções abaixo).
-
 ---
 
 ## 📫 Contato
